@@ -6,6 +6,7 @@ public class Lorry extends Car{
         super();
         loadCapacity = "600";
     }
+    // Переназначение марки автомобиля и изменение грузоподъемности
     Lorry(String company, String weight, String horsePower, String loadCapacity){
         super(company, weight, horsePower);
         this.loadCapacity = loadCapacity;

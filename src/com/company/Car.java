@@ -4,7 +4,7 @@ public class Car {
     String company, weight, horsePower;
     // Company = Компания, Weight = вес, HorsePower = кол-во лошадиных сил
     Car(){
-        company = "Ford";
+        company = "";
         weight = "1682";
         horsePower = "142";
     }
