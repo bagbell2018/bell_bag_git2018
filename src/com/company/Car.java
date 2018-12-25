@@ -13,5 +13,5 @@ public class Car {
         this.weight = weight;
         this.horsePower = horsePower;
     }
-    void setHorsePower(String newHorsePower){ horsePower = newHorsePower;}
+    void setHorsePower(String newHorsePower){horsePower = newHorsePower;}
 }

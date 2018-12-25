@@ -11,7 +11,7 @@ public class Lorry extends Car{
         super(company, weight, horsePower);
         this.loadCapacity = loadCapacity;
     }
-    void setLoadCapacity(String loadCapacity){ this.loadCapacity = loadCapacity;}
+    void setLoadCapacity(String loadCapacity){this.loadCapacity = loadCapacity;}
     void setCompany(String company){this.company = company;}
     void setCompAndCapacity(String company, String loadCapacity){
         this.loadCapacity = loadCapacity;
