@@ -4,9 +4,9 @@ public class Car {
     String company, weight, horsePower;
     // Company = Компания, Weight = вес, HorsePower = кол-во лошадиных сил
     Car(){
-        company = "";
+        company = "Toyota";
         weight = "1682";
-        horsePower = "142";
+        horsePower = "162";
     }
     Car(String company,String weight, String horsePower){
         this.company = company;
