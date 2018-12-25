@@ -6,3 +6,5 @@ public class Main {
 	// write your code here
     }
 }
+
+// Второй комментарий для коммита!
